@@ -16,7 +16,7 @@ Building scalable web systems, from REST backends to installable PWAs, with a fo
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **Computer Engineering** at **YOUR UNIVERSITY** (expected graduation: YEAR)
+- 🎓 Studying **Computer Engineering** at **University of Duisberg-Essen** (expected graduation: 2028)
 - ☁️ Currently taking **Cloud, Web & Mobile** (Distributed Systems), where I'm building a stateless, replicated Kanban PWA from scratch
 - 🔭 Interested in scalable architectures, backend engineering, DevOps, and developer tooling
 - 🌱 Currently learning: **Go, Docker, PostgreSQL, Vue.js, CI/CD, JWT, Caddy, S3**
