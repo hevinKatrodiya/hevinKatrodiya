@@ -6,7 +6,7 @@
 
 Building scalable web systems, from REST backends to installable PWAs, with a focus on distributed systems and automated deployment.
 
-![Location](https://img.shields.io/badge/📍_Location-YOUR_CITY,_COUNTRY-0A66C2?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Location-Germany-0A66C2?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Cloud--Native_%7C_Distributed_Systems-2563EB?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Open_to_internships-22C55E?style=flat-square)
 
